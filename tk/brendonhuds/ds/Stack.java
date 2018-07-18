@@ -1,3 +1,5 @@
+package tk.brendonhuds.ds;
+
 public class Stack {
 
     private static final int MAX_SIZE = 5;

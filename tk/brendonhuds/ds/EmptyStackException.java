@@ -1,3 +1,5 @@
+package tk.brendonhuds.ds;
+
 public class EmptyStackException extends StackException {
     EmptyStackException() {};
 

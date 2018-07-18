@@ -1,3 +1,5 @@
+package tk.brendonhuds.util;
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.nio.file.FileAlreadyExistsException;
